@@ -1,2 +1,2 @@
 # testdata
-about openai test data
+whisper Chinese podcast part 1 
